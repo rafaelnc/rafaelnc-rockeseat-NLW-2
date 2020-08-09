@@ -4,7 +4,7 @@
 <h1 align="center">
     <img alt="proffy" src="./.github/proffy.png" />
     <br>
-    Ecoleta
+    Proffy
 </h1>
 
 <h4 align="center">
