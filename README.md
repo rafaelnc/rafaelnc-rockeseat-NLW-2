@@ -29,7 +29,7 @@ $ cd server
 $ yarn install
 
 # Run 
-$ yarn run dev
+$ yarn start
 
 # Execute migrations
 $ yarn run knex:migrate
